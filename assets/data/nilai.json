@@ -1,0 +1,87 @@
+[
+    {
+      "kode_mk": 14620173,
+      "nama_mk": "ADMINISTRASI JARINGAN",
+      "smstr": 4,
+      "nilai_hrf": "A",
+      "nilai_angk": 12
+    },
+    {
+      "kode_mk": 14620094,
+      "nama_mk": "MATEMATIKA KOMPUTASI",
+      "smstr": 2,
+      "nilai_hrf": "A",
+      "nilai_angk": 16
+    },
+    {
+      "kode_mk": 802,
+      "nama_mk": "BAHASA INDONESIA",
+      "smstr": 1,
+      "nilai_hrf": "A-",
+      "nilai_angk": 7.5
+    },
+    {
+      "kode_mk": 14620352,
+      "nama_mk": "BAHASA INGGRIS",
+      "smstr": 4,
+      "nilai_hrf": "AB",
+      "nilai_angk": 7
+    },
+    {
+      "kode_mk": 14620213,
+      "nama_mk": "ENTREPRENEURSHIP",
+      "smstr": 5,
+      "nilai_hrf": "A-",
+      "nilai_angk": 11.25
+    },
+    {
+      "kode_mk": 14620382,
+      "nama_mk": "ETIKA TEKNOLOGI INFORMASI",
+      "smstr": 3,
+      "nilai_hrf": "A",
+      "nilai_angk": 8
+    },
+    {
+      "kode_mk": 14620063,
+      "nama_mk": "GRAF DAN OTOMATA",
+      "smstr": 2,
+      "nilai_hrf": "A",
+      "nilai_angk": 12
+    },
+    {
+      "kode_mk": 14620204,
+      "nama_mk": "GRAFIKA KOMPUTER*",
+      "smstr": 4,
+      "nilai_hrf": "A-",
+      "nilai_angk": 15
+    },
+    {
+      "kode_mk": 14620123,
+      "nama_mk": "INTERAKSI MANUSIA KOMPUTER",
+      "smstr": 3,
+      "nilai_hrf": "A",
+      "nilai_angk": 12
+    },
+    {
+      "kode_mk": 14620133,
+      "nama_mk": "KECERDASAN ARTIFISIAL",
+      "smstr": 3,
+      "nilai_hrf": "AB",
+      "nilai_angk": 10.5
+    },
+    {
+      "kode_mk": 14620194,
+      "nama_mk": "KECERDASAN KOMPUTASIONAL",
+      "smstr": 4,
+      "nilai_hrf": "B+",
+      "nilai_angk": 13
+    },
+    {
+      "kode_mk": 14620144,
+      "nama_mk": "MANAJEMEN BASIS DATA *",
+      "smstr": 3,
+      "nilai_hrf": "A-",
+      "nilai_angk": 15
+    }
+
+  ]

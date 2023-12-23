@@ -1,0 +1,58 @@
+[
+    {
+      "kode_mk": 14620223,
+      "nama_mk": "SISTEM KEAMANAN SIBER",
+      "kelas": "A",
+      "hari": "Kamis",
+      "jam": "07:00 - 09:30",
+      "ruang": "Q803"
+    },
+    {
+      "kode_mk": 14620233,
+      "nama_mk": "PENGEMBANGAN APLIKASI BERGERAK*",
+      "kelas": "A",
+      "hari": "Selasa",
+      "jam": "09:30 - 12:00",
+      "ruang": "L604"
+    },
+    {
+      "kode_mk": 14620244,
+      "nama_mk": "PENGOLAHAN CITRA DIGITAL*",
+      "kelas": "A",
+      "hari": "Jumat",
+      "jam": "09:30 - 11:10",
+      "ruang": "Q404"
+    },
+    {
+      "kode_mk": 14620253,
+      "nama_mk": "SISTEM APLIKASI MULTIMEDIA",
+      "kelas": "A",
+      "hari": "Selasa",
+      "jam": "12:00 - 14:30",
+      "ruang": "L403"
+    },
+    {
+      "kode_mk": 14620263,
+      "nama_mk": "PENGEMBANGAN GAME",
+      "kelas": "A",
+      "hari": "Kamis",
+      "jam": "12:00 - 14:30",
+      "ruang": "Q803"
+    },
+    {
+      "kode_mk": 14620373,
+      "nama_mk": "TEXT MINING",
+      "kelas": "A",
+      "hari": "Kamis",
+      "jam": "09:30 - 12:00",
+      "ruang": "Q603"
+    },
+    {
+      "kode_mk": 14620693,
+      "nama_mk": "VISUALISASI DATA",
+      "kelas": "C",
+      "hari": "Senin",
+      "jam": "12:00 - 14:30",
+      "ruang": "L606"
+    }
+  ]
